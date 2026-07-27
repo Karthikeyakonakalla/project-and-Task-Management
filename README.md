@@ -343,7 +343,7 @@ This project helped strengthen understanding of:
 
 ## Author
 
-Kiran
+karthikeya konakalla
 
 Backend-focused developer interested in:
 - Java backend engineering
