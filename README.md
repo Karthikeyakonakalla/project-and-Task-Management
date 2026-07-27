@@ -121,7 +121,7 @@ Authorization: Bearer <JWT_TOKEN>
 ### Clone Repository
 
 ```bash
-git clone https://github.com/kirannamburi06/collaborative-project-and-task-management-system.git
+
 ```
 
 ---
